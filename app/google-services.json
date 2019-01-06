@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "477226296375",
+    "firebase_url": "https://imunisasi-terpadu.firebaseio.com",
+    "project_id": "imunisasi-terpadu",
+    "storage_bucket": "imunisasi-terpadu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477226296375:android:b9fd05cd849ce7c2",
+        "android_client_info": {
+          "package_name": "com.imut.imut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477226296375-hnd0gnkp45pcqls61f4n7u2k6qcdvu36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imut.imut",
+            "certificate_hash": "0ecfc451aa79f5c49c72ffd4974539838afb3931"
+          }
+        },
+        {
+          "client_id": "477226296375-qoiuuhpnqn80jo6cqinj98o9l8eqambr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQdwF8ZDNVWT_MQwxtWLQ0fEWEg1X0FGo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477226296375-qoiuuhpnqn80jo6cqinj98o9l8eqambr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
