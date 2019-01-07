@@ -83,13 +83,22 @@
                 android:layout_height="wrap_content"
                 android:textColor="#000000"
                 android:text="Don't have account"/>
-            <TextView
-                android:id="@+id/tvRegister"
+            <Button
+                android:id="@+id/signupButton"
                 android:layout_width="wrap_content"
-                android:text="Register"
-                android:layout_marginLeft="10dp"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:text="Signup"
+                android:textAllCaps="false"
                 android:textColor="@color/colorPrimary"
-                android:layout_height="wrap_content" />
+                android:textSize="15dp" />
         </LinearLayout>
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center|bottom"
+            android:layout_marginBottom="20dp"
+            android:visibility="gone" />
     </LinearLayout>
 </RelativeLayout>
