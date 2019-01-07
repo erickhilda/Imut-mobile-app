@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+        android:title="Beranda"
+        android:icon="@drawable/ic_home"/>
+    <item android:id="@+id/chat"
+        android:title="Obrolan"
+        android:icon="@drawable/ic_chat"/>
+    <item android:id="@+id/chart"
+        android:title="Grafik"
+        android:icon="@drawable/ic_chart"/>
+</menu>
